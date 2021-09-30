@@ -1,0 +1,3 @@
+Gowalla  	available on http://snap.stan-ford.edu/data/loc-gowalla.html
+Dianping  	available on https://goo.gl/uUV4Wg
+Twitter-2010	available on http://law.di.unimi.it/webdata/twitter-2010/.
