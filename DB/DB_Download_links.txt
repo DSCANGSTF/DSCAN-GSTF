@@ -1,3 +1,5 @@
-Gowalla  	available on http://snap.stan-ford.edu/data/loc-gowalla.html
-Dianping  	available on https://goo.gl/uUV4Wg
-Twitter-2010	available on http://law.di.unimi.it/webdata/twitter-2010/.
+Dianping  	https://goo.gl/uUV4Wg
+Gowalla  	http://snap.stan-ford.edu/data/loc-gowalla.html
+Ljournal-2008   http://law.di.unimi.it/webdata/ljournal-2008/
+orkut-2007      http://law.di.unimi.it/webdata/orkut-2007/
+Twitter-2010	http://law.di.unimi.it/webdata/twitter-2010/
